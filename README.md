@@ -12,6 +12,7 @@ The problems are consist of two different setup with Six main types (R1, R2, C1,
 The algorithms use the original algorithm. No combination between algorithms or enhancement.
 - Genetic Algorithm (GA) (in testing)
 - Particle swarm optimization (PSO) (in progress)
+- Ant Colony Optimization (ACO) (in progress)
 - Slime mould algorithm (SMA) (in progress)
 - Artificial hummingbird algorithm (AHA) (in research)
 - Grey Wolf Optimation (GWO) (in research)
